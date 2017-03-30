@@ -11,7 +11,7 @@
         <Project>
           <name>Game31Workspace</name>
           <paths>
-            <path>C:\Tools\HUSACCT\ExampleSystems\Game31\src\main</path>
+            <path>src\main</path>
           </paths>
           <programmingLanguage>Java</programmingLanguage>
           <version>1.0</version>
